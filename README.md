@@ -1,1 +1,1 @@
-# Neuronske-mreze---projekat
+# Neuronske mreze - projekat
